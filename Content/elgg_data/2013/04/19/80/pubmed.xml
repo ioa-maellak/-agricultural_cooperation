@@ -1,0 +1,2117 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">24849988</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2385</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29 Suppl 3</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association</Title>
+                <ISOAbbreviation>Nephrol. Dial. Transplant.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diabetes clinical.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>iii419-iii433</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ndt/gfu169</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vanikar</LastName>
+                    <ForeName>Aruna V</ForeName>
+                    <Initials>AV</Initials>
+                    <Affiliation>Institute of Kidney Diseases &amp; Research Centre Dr. H.L. Trivedi Institute of Transplantation Science, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trivedi</LastName>
+                    <ForeName>Hargovind L</ForeName>
+                    <Initials>HL</Initials>
+                    <Affiliation>Institute of Kidney Diseases &amp; Research Centre Dr. H.L. Trivedi Institute of Transplantation Science, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dave</LastName>
+                    <ForeName>Shuti D</ForeName>
+                    <Initials>SD</Initials>
+                    <Affiliation>Institute of Kidney Diseases &amp; Research Centre Dr. H.L. Trivedi Institute of Transplantation Science, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kute</LastName>
+                    <ForeName>Vivek B</ForeName>
+                    <Initials>VB</Initials>
+                    <Affiliation>IKDRCITS, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rawal</LastName>
+                    <ForeName>Manish N</ForeName>
+                    <Initials>MN</Initials>
+                    <Affiliation>IKDRCITS, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Himanshu V</ForeName>
+                    <Initials>HV</Initials>
+                    <Affiliation>IKDRCits, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gumber</LastName>
+                    <ForeName>Manoj R</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>IKDRCITS, Ahmedabad, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Afghahi</LastName>
+                    <ForeName>Hanri</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Medicin, Skövde, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pirouzifard</LastName>
+                    <ForeName>Mirnabi</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Center of Registers, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svensson</LastName>
+                    <ForeName>Ann-Marie</ForeName>
+                    <Initials>AM</Initials>
+                    <Affiliation>Center of Registers, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eliasson</LastName>
+                    <ForeName>Bjorn</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Department of Medicin, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Svensson</LastName>
+                    <ForeName>Maria K</ForeName>
+                    <Initials>MK</Initials>
+                    <Affiliation>Department of Medicin, Sahlgrenska University Hospital, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumann</LastName>
+                    <ForeName>Konstantin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hörrmann</LastName>
+                    <ForeName>Britta</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lammert</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>University Medicine Mannheim, Mannheim, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rheinberger</LastName>
+                    <ForeName>Myriam</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gorski</LastName>
+                    <ForeName>Mathias</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krämer</LastName>
+                    <ForeName>Bernhard K</ForeName>
+                    <Initials>BK</Initials>
+                    <Affiliation>University Medicine Mannheim, Mannheim, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heid</LastName>
+                    <ForeName>Iris M</ForeName>
+                    <Initials>IM</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany Helmholtz Center München, München, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Böger</LastName>
+                    <ForeName>Carsten A</ForeName>
+                    <Initials>CA</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demirtas</LastName>
+                    <ForeName>Levent</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akbas</LastName>
+                    <ForeName>Emin M</ForeName>
+                    <Initials>EM</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Timuroglu</LastName>
+                    <ForeName>Aysu</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozcicek</LastName>
+                    <ForeName>Fatih</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turkmen</LastName>
+                    <ForeName>Kultigin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández-Fernández</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanchez-Niño</LastName>
+                    <ForeName>María Dolores</ForeName>
+                    <Initials>MD</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin-Cleary</LastName>
+                    <ForeName>Catalina</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Izquierdo</LastName>
+                    <ForeName>Maria Concepción</ForeName>
+                    <Initials>MC</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elewa</LastName>
+                    <ForeName>Usama</ForeName>
+                    <Initials>U</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>IIS-Fundación Jimenez Díaz, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrica</LastName>
+                    <ForeName>Ligia</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlad</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gluhovschi</LastName>
+                    <ForeName>Gheorghe</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gadalean</LastName>
+                    <ForeName>Florica</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumitrascu</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gluhovschi</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velciov</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bob</LastName>
+                    <ForeName>Flaviu</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlad</LastName>
+                    <ForeName>Daliborca</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popescu</LastName>
+                    <ForeName>Roxana</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrica</LastName>
+                    <ForeName>Maxim</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jianu</LastName>
+                    <ForeName>Dragos C</ForeName>
+                    <Initials>DC</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milas</LastName>
+                    <ForeName>Oana</ForeName>
+                    <Initials>O</Initials>
+                    <Affiliation>County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Izvernari</LastName>
+                    <ForeName>Oana</ForeName>
+                    <Initials>O</Initials>
+                    <Affiliation>County Emergency Hospital, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ursoniu</LastName>
+                    <ForeName>Sorin</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>''Victor Babes'' University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makino</LastName>
+                    <ForeName>Yasukazu</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Fukui University School of Medicine, Eiheiji,Fukui, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konoshita</LastName>
+                    <ForeName>Tadashi</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Fukui University School of Medicine, Eiheiji,Fukui, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyumura</LastName>
+                    <ForeName>Izumi</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Tokyo Women's Medical University, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babazono</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Tokyo Women's Medical University, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Noriko</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Tokyo Women's Medical University, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchigata</LastName>
+                    <ForeName>Yasuko</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Tokyo Women's Medical University, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Handisurya</LastName>
+                    <ForeName>Ammon</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerscher</LastName>
+                    <ForeName>Corinna</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tura</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>National Research Council, Padova, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werzowa</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heinzl</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ristl</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kautzky-Willer</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pacini</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>National Research Council, Padova, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saemann</LastName>
+                    <ForeName>Marcus</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halbesma</LastName>
+                    <ForeName>Nynke</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>University of Edinburgh, Edinburgh, United Kingdom On Behalf of the Scottish Diabetes Research Network Epidemiology Group, Edinburgh, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metcalfe</LastName>
+                    <ForeName>Wendy</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Scottish Renal Registry, Glasgow, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bulum</LastName>
+                    <ForeName>Tomislav</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prkačin</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blaslov</LastName>
+                    <ForeName>Kristina</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zibar</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duvnjak</LastName>
+                    <ForeName>Lea</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Idorn</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Copenhagen University Hospital, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knop</LastName>
+                    <ForeName>Filip K</ForeName>
+                    <Initials>FK</Initials>
+                    <Affiliation>Gentofte Hospital, Hellerup, Denmark Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jørgensen</LastName>
+                    <ForeName>Morten B</ForeName>
+                    <Initials>MB</Initials>
+                    <Affiliation>Copenhagen University Hospital, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christensen</LastName>
+                    <ForeName>Mikkel</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Gentofte Hospital, Hellerup, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holst</LastName>
+                    <ForeName>Jens J</ForeName>
+                    <Initials>JJ</Initials>
+                    <Affiliation>Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hornum</LastName>
+                    <ForeName>Mads</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Copenhagen University Hospital, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feldt-Rasmussen</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Copenhagen University Hospital, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Næss</LastName>
+                    <ForeName>Hege</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartmann</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenssen</LastName>
+                    <ForeName>Trond Geir</ForeName>
+                    <Initials>TG</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holdaas</LastName>
+                    <ForeName>Hallvard</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horneland</LastName>
+                    <ForeName>Rune</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grzyb</LastName>
+                    <ForeName>Krzysztof</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bitter</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Sørlandet Sykehus, Kristiansand, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Midtvedt</LastName>
+                    <ForeName>Karsten</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Ous Rikshospitalet, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Noriko</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Tokyo Women's Medical Univercity, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babazono</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Tokyo Women's Medical Univercity, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchigata</LastName>
+                    <ForeName>Yasuko</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Tokyo Women's Medical Univercity, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Timar</LastName>
+                    <ForeName>Romulus</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gluhovschi</LastName>
+                    <ForeName>Gheorghe</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Romanian Academy of Medical Sciences, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gadalean</LastName>
+                    <ForeName>Florica</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Velciov</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrica</LastName>
+                    <ForeName>Ligia</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Timar</LastName>
+                    <ForeName>Bogdan</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gluhovschi</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Timisoara, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soro-Paavonen</LastName>
+                    <ForeName>Aino</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Helsinki University Central Hospital, Helsinki, Finland Folkhälsan Institute of Genetics, Helsinki, Finland University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleming</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University of Heidelberg, Heidelberg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forsblom</LastName>
+                    <ForeName>Carol</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Folkhälsan Institute of Genetics, Helsinki, Finland University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gordin</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Helsinki University Central Hospital, Helsinki, Finland Folkhälsan Institute of Genetics, Helsinki, Finland University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolonen</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Folkhälsan Institute of Genetics, Helsinki, Finland University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harjutsalo</LastName>
+                    <ForeName>Valma</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Folkhälsan Institute of Genetics, Helsinki, Finland University of Helsinki, Helsinki, Finland National Institute for Health and Welfare, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nawroth</LastName>
+                    <ForeName>Peter P</ForeName>
+                    <Initials>PP</Initials>
+                    <Affiliation>University of Heidelberg, Heidelberg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Groop</LastName>
+                    <ForeName>Per-Henrik</ForeName>
+                    <Initials>PH</Initials>
+                    <Affiliation>Helsinki University Central Hospital, Helsinki, Finland Folkhälsan Institute of Genetics, Helsinki, Finland Baker IDI Heart and Diabetes Institute, Melbourne, Australia University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Finndiane Study Group</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsuda</LastName>
+                    <ForeName>Akihiro</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishimura</LastName>
+                    <ForeName>Eiji</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uedono</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yasumoto</LastName>
+                    <ForeName>Mari</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakatani</LastName>
+                    <ForeName>Shinya</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ichii</LastName>
+                    <ForeName>Mitsuru</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ohno</LastName>
+                    <ForeName>Yoshiteru</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ochi</LastName>
+                    <ForeName>Akinobu</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mori</LastName>
+                    <ForeName>Katsuhito</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukumoto</LastName>
+                    <ForeName>Shinya</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emoto</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inaba</LastName>
+                    <ForeName>Masaaki</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rheinberger</LastName>
+                    <ForeName>Myriam</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hörmann</LastName>
+                    <ForeName>Britta</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lammert</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>University of Mannheim, Mannheim, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumann</LastName>
+                    <ForeName>Konstantin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gorski</LastName>
+                    <ForeName>Mathias</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, GermanyUniversity Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heid</LastName>
+                    <ForeName>Iris M</ForeName>
+                    <Initials>IM</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany Helmholtz Zentrum München, Neuherberg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krämer</LastName>
+                    <ForeName>Bernhard K</ForeName>
+                    <Initials>BK</Initials>
+                    <Affiliation>University Mannheim, Mannheim, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Böger</LastName>
+                    <ForeName>Carsten A</ForeName>
+                    <Initials>CA</Initials>
+                    <Affiliation>University Hospital Regensburg, Regensburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Diacore Study Group</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siddaramaiah</LastName>
+                    <ForeName>Naveen H</ForeName>
+                    <Initials>NH</Initials>
+                    <Affiliation>James Cook University Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tez</LastName>
+                    <ForeName>Didem K</ForeName>
+                    <Initials>DK</Initials>
+                    <Affiliation>James Cook University Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linker</LastName>
+                    <ForeName>Nicholas J</ForeName>
+                    <Initials>NJ</Initials>
+                    <Affiliation>James Cook University Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bilous</LastName>
+                    <ForeName>Mary</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>James Cook University Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winship</LastName>
+                    <ForeName>Sue</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>James Cook University Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marshall</LastName>
+                    <ForeName>Sally M</ForeName>
+                    <Initials>SM</Initials>
+                    <Affiliation>Institute of Cellular Medicine, Newcastle upon Tyne, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bilous</LastName>
+                    <ForeName>Rudolf W</ForeName>
+                    <Initials>RW</Initials>
+                    <Affiliation>James Cook Univeristy Hospital, Middlesbrough, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lampropoulou</LastName>
+                    <ForeName>Ioanna Theologia</ForeName>
+                    <Initials>IT</Initials>
+                    <Affiliation>Ippokration General Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papagianni</LastName>
+                    <ForeName>Aikaterini</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Ippokration General Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stangou</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Ippokration General Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Didangelos</LastName>
+                    <ForeName>Triantafillos</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital AHEPA, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iliadis</LastName>
+                    <ForeName>Fotis</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>University Hospital AHEPA, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Efstratiadis</LastName>
+                    <ForeName>Georgios</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Ippokration General Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esposito</LastName>
+                    <ForeName>Pasquale</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Debarbieri</LastName>
+                    <ForeName>Giacomo</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mereu</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ditoro</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montagna</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Groop</LastName>
+                    <ForeName>Per-Henrik</ForeName>
+                    <Initials>PH</Initials>
+                    <Affiliation>University of Helsinki, Helsinki, Finland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernardi</LastName>
+                    <ForeName>Luciano</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dal Canton</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Fondazione IRCCS Policlinico San Matteo, and University of Pavia, Pavia, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garland</LastName>
+                    <ForeName>Jocelyn S</ForeName>
+                    <Initials>JS</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holden</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morton</LastName>
+                    <ForeName>Ross</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ross</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pruss</LastName>
+                    <ForeName>Cynthia</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Queen's University, Kingston, ON, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akbas</LastName>
+                    <ForeName>Emin M</ForeName>
+                    <Initials>EM</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demirtas</LastName>
+                    <ForeName>Levent</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Timuroglu</LastName>
+                    <ForeName>Aysu</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozcicek</LastName>
+                    <ForeName>Fatih</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turkmen</LastName>
+                    <ForeName>Kultigin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Erzincan University, Erzincan, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bulum</LastName>
+                    <ForeName>Tomislav</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prkačin</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blaslov</LastName>
+                    <ForeName>Kristina</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zibar</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duvnjak</LastName>
+                    <ForeName>Lea</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>University Hospital Merkur, School of Medicine, University of Zagreb, Zagreb, Croatia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theodoridis</LastName>
+                    <ForeName>Marios</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panagoutsos</LastName>
+                    <ForeName>Stelios</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bounta</LastName>
+                    <ForeName>Triantafilia</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roumeliotis</LastName>
+                    <ForeName>Stefanos</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kantartzi</LastName>
+                    <ForeName>Konstantia</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pouloutidis</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Passadakis</LastName>
+                    <ForeName>Ploumis</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polaina Rusillo</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Complejo Hospitalario de Jaén, Jaen, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borrego Utiel</LastName>
+                    <ForeName>Franciso Jose</ForeName>
+                    <Initials>FJ</Initials>
+                    <Affiliation>Complejo Hospitalario de Jaen, Jaen, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortega Anguiano</LastName>
+                    <ForeName>Sonia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Complejo Hospitalario de Jaen, Jaen, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liebana Cañada</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Complejo Hospitalario de Jaén, Jaen, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaber</LastName>
+                    <ForeName>Eman Wagdy</ForeName>
+                    <Initials>EW</Initials>
+                    <Affiliation>Medical Research Institute, Alexandria, Egypt.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdel Rehim</LastName>
+                    <ForeName>Wafaa Mahmoud</ForeName>
+                    <Initials>WM</Initials>
+                    <Affiliation>Medical Research Institute, Alexandria, Egypt.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ibrahim</LastName>
+                    <ForeName>Noha Adel</ForeName>
+                    <Initials>NA</Initials>
+                    <Affiliation>Medical Research Institute, Alexandria, Egypt.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahmoud</LastName>
+                    <ForeName>Bothaina Fouad</ForeName>
+                    <Initials>BF</Initials>
+                    <Affiliation>Medical Research Institute, Alexandria, Egypt.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Ana Paula</ForeName>
+                    <Initials>AP</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fragoso</LastName>
+                    <ForeName>Andre</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavares</LastName>
+                    <ForeName>Nelson</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Nélio</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Camacho</LastName>
+                    <ForeName>Ana</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neves</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Rosa</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Hospital Universitario de Canarias, La Laguna, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Porrini</LastName>
+                    <ForeName>Esteban</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>University of La Laguna, Cibican, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González-Rinne</LastName>
+                    <ForeName>Ana</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hospital Universitario de Canarias, La Laguna, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Vries</LastName>
+                    <ForeName>Aiko</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Leiden University Medical Center, Leiden University Medical Center, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torres</LastName>
+                    <ForeName>Armando</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Universidad de La Laguna-Hospital Universitario de Canarias-Cibican, Cibican Nephrology Department, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salido</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>University of La Laguna-Hospital Universitario de Canarias.Cibican, Cibican, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>Sawako</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Nagoya University Graduate School of Medicine, Nagoya, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Shoichi Maruyama</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makino</LastName>
+                    <ForeName>Hirofumi</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Okayama University Graduate School of Medicine, Okayama, Japan Okayama University Graduate School Of Medicine, Okayama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Jun Wada</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uzu</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Shiga University of Medical Science, Shiga, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Hisazumi Araki</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koya</LastName>
+                    <ForeName>Daisuke</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Kanazawa Medical University, Ishikawa, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Kenzo Kanasaki</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishiyama</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Kagawa University, Kagawa, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imai</LastName>
+                    <ForeName>Enyu</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Nakayama-Temple Imai Clinic, Hyogo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ando</LastName>
+                    <ForeName>Masahiko</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Nagoya University Hospital, Nagoya, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Seiichi Matsuo</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jørgensen</LastName>
+                    <ForeName>Morten B</ForeName>
+                    <Initials>MB</Initials>
+                    <Affiliation>Rigshospitalet, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knop</LastName>
+                    <ForeName>Filip K</ForeName>
+                    <Initials>FK</Initials>
+                    <Affiliation>Diabetes Research Division, Gentofte Hospital, Hellerup, Denmark The Nnf Center for Basic Metabolic Research, The Panum Institute, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Idorn</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Rigshospitalet, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holst</LastName>
+                    <ForeName>Jens J</ForeName>
+                    <Initials>JJ</Initials>
+                    <Affiliation>The Nnf Center for Basic Metabolic Research, The Panum Institute, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hornum</LastName>
+                    <ForeName>Mads</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Rigshospitalet, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feldt-Rasmussen</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Rigshospitalet, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaduva</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Emergency Hospital, Craiova, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popa</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Craiova, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitrea</LastName>
+                    <ForeName>Adina</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Emergency Hospital, Craiova, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mota</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Craiova, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mota</LastName>
+                    <ForeName>Eugen</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>University of Medicine and Pharmacy, Craiova, Romania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theodoridis</LastName>
+                    <ForeName>Marios</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panagoutsos</LastName>
+                    <ForeName>Stelios</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roumeliotis</LastName>
+                    <ForeName>Stefanos</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bounta</LastName>
+                    <ForeName>Triantafillia</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kriki</LastName>
+                    <ForeName>Pelagia</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roumeliotis</LastName>
+                    <ForeName>Athanasios</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Passadakis</LastName>
+                    <ForeName>Ploumis</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogawa</LastName>
+                    <ForeName>Tomonari</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okazaki</LastName>
+                    <ForeName>Shinpei</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatano</LastName>
+                    <ForeName>Minoru</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hara</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inamura</LastName>
+                    <ForeName>Megumi</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiba</LastName>
+                    <ForeName>Tota</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwashita</LastName>
+                    <ForeName>Takatsugu</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shimizu</LastName>
+                    <ForeName>Taisuke</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tayama</LastName>
+                    <ForeName>Yousuke</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanozawa</LastName>
+                    <ForeName>Koichi</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>Hitoshi</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsuda</LastName>
+                    <ForeName>Akihiko</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasegawa</LastName>
+                    <ForeName>Hajime</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Saitama Medical Center, Saitama Medical University, Kawagoe Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elewa</LastName>
+                    <ForeName>Usama</ForeName>
+                    <Initials>U</Initials>
+                    <Affiliation>IIS-Fundación Jiménez Díaz University Hospital, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>IIS-Fundación Jiménez Díaz University Hospital, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Egido</LastName>
+                    <ForeName>Jesus</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>IIS-Fundación Jiménez Díaz University Hospital, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>IIS-Fundación Jiménez Díaz University Hospital, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rottembourg</LastName>
+                    <ForeName>Jacques</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Nephrology, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guerin</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hemodialysis Unit, Diaverum, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaconita</LastName>
+                    <ForeName>Mirela</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Hemodialysis Unit, Diaverum, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dansaert</LastName>
+                    <ForeName>Aurélie</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hemodialysis Unit, Diaverum, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chakraborty</LastName>
+                    <ForeName>Joydeep</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prabhu</LastName>
+                    <ForeName>Ravindra</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagaraju</LastName>
+                    <ForeName>Shankar P</ForeName>
+                    <Initials>SP</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bairy</LastName>
+                    <ForeName>Manohar</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Satyamoorthy</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>School of Life Sciences, Manipal University, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kosuru</LastName>
+                    <ForeName>Srinivas</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parthasarathy</LastName>
+                    <ForeName>Rajeevalochana</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Kasturba Medical College, Manipal, Manipal, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomilina</LastName>
+                    <ForeName>Natalia</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Federal Research Center of Transplantology and Artificial Organs, Moscow, Russian Federation Moscow University of Medicine and Dentistry, Moscow, Russian Federation Moscow City Nephrology Center, City Hospital N52, Moscow, Russian Federation.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhilinskaya</LastName>
+                    <ForeName>Tatiana</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Moscow University of Medicine and Dentistry, Moscow, Russian Federation Moscow City Nephrology Center, City Hospital N52, Moscow, Russian Federation.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stolyarevich</LastName>
+                    <ForeName>Ekaterina</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Federal Research Center of Transplantology and Artificial Organs, Moscow, Russian Federation Moscow University of Medicine and Dentistry, Moscow, Russian Federation.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Ana Paula</ForeName>
+                    <Initials>AP</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fragoso</LastName>
+                    <ForeName>Andre</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guilherme</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Nelio</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Hospital de Faro, Hospital de Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rato</LastName>
+                    <ForeName>Fatima</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Camacho</LastName>
+                    <ForeName>Ana</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neves</LastName>
+                    <ForeName>Pedro</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Hospital de Faro, Faro, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pasko</LastName>
+                    <ForeName>Nevi</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strakosha</LastName>
+                    <ForeName>Ariana</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toti</LastName>
+                    <ForeName>Flori</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dedej</LastName>
+                    <ForeName>Teuta</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>University Hospital Center, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marku</LastName>
+                    <ForeName>Ndok</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>University Hospital Center, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrela</LastName>
+                    <ForeName>Elizana</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zekollari</LastName>
+                    <ForeName>Ervin</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kacorri</LastName>
+                    <ForeName>Viola</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thereska</LastName>
+                    <ForeName>Nestor</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>University Hospital Center &quot;Mother Tereza&quot;, Tirana, Albania.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roumeliotis</LastName>
+                    <ForeName>Stefanos K</ForeName>
+                    <Initials>SK</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roumeliotis</LastName>
+                    <ForeName>Athanasios K</ForeName>
+                    <Initials>AK</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theodoridis</LastName>
+                    <ForeName>Marios</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavridou</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>School of Medicine, Democritus University of Thrace, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panagoutsos</LastName>
+                    <ForeName>Stelios</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Passadakis</LastName>
+                    <ForeName>Ploumis</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vargemezis</LastName>
+                    <ForeName>Vasilios</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>General University Hospital of Alexandroupolis, Alexandroupolis, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Il Young</ForeName>
+                    <Initials>IY</Initials>
+                    <Affiliation>Pusan National University Yangsan Hospital, Yangsan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Soo Bong</ForeName>
+                    <Initials>SB</Initials>
+                    <Affiliation>Pusan National University Yangsan Hospital, Yangsan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Dong Won</ForeName>
+                    <Initials>DW</Initials>
+                    <Affiliation>Pusan National University Yangsan Hospital, Yangsan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Min Jung</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Pusan National University Yangsan Hospital, Yangsan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Min Ji</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhee</LastName>
+                    <ForeName>Harin</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Byeong Yun</ForeName>
+                    <Initials>BY</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Sang Heon</ForeName>
+                    <Initials>SH</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seong</LastName>
+                    <ForeName>Eun Young</ForeName>
+                    <Initials>EY</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kwak</LastName>
+                    <ForeName>Ihm Soo</ForeName>
+                    <Initials>IS</Initials>
+                    <Affiliation>Pusan National University Hospital, Busan, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Celebi</LastName>
+                    <ForeName>Koray</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Kocaeli University School of Medicine, Kocaeli, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sengul</LastName>
+                    <ForeName>Erkan</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Kocaeli Derince Education and Research Hospital, Kocaeli, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cekmen</LastName>
+                    <ForeName>Mustafa Baki</ForeName>
+                    <Initials>MB</Initials>
+                    <Affiliation>Kocaeli University School of Medicine, Kocaeli, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yilmaz</LastName>
+                    <ForeName>Ahmet</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Kocaeli University School of Medicine, Kocaeli, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonikian</LastName>
+                    <ForeName>Makrouhi</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Konstantopoulion-A. Olga Hospital, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dona</LastName>
+                    <ForeName>Artemisia</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Kapodistriakon University, Medical School, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skarakis</LastName>
+                    <ForeName>Jacob</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Kapodistriakon University, Chemistry School, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miha</LastName>
+                    <ForeName>Theodora</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Galenos Hemodialysis Unit, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trompouki</LastName>
+                    <ForeName>Sophia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Iaso Hemodialysis Unit, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karaitianou</LastName>
+                    <ForeName>Aphroditi</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Sismanoglion-A. Fleming Hospital, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiliopoulou</LastName>
+                    <ForeName>Chara</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Kapodistriakon University, Medical Schoool, Athens, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dimas</LastName>
+                    <ForeName>Grigorios G</ForeName>
+                    <Initials>GG</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iliadis</LastName>
+                    <ForeName>Fotios S</ForeName>
+                    <Initials>FS</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tegos</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiroglou</LastName>
+                    <ForeName>Sofia G</ForeName>
+                    <Initials>SG</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanellos</LastName>
+                    <ForeName>Ilias E</ForeName>
+                    <Initials>IE</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fotiadis</LastName>
+                    <ForeName>Spiros D</ForeName>
+                    <Initials>SD</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Didaggelos</LastName>
+                    <ForeName>Triantafyllos P</ForeName>
+                    <Initials>TP</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savopoulos</LastName>
+                    <ForeName>Christos G</ForeName>
+                    <Initials>CG</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatzitolios</LastName>
+                    <ForeName>Apostolos I</ForeName>
+                    <Initials>AI</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grekas</LastName>
+                    <ForeName>Dimitrios M</ForeName>
+                    <Initials>DM</Initials>
+                    <Affiliation>AHEPA University Hospital, Thessaloniki, Greece.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Yueh Han</ForeName>
+                    <Initials>YH</Initials>
+                    <Affiliation>Ditmanson Medical Foundation Chia-Yi Christian Hospital, Chia-yi City, Taiwan China Medical University and Hospital, Taichung City, Taiwan Min-Hwei College of Health Care Management, Tainan City, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Meng Chuan</ForeName>
+                    <Initials>MC</Initials>
+                    <Affiliation>College of Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Hsing Yi</ForeName>
+                    <Initials>HY</Initials>
+                    <Affiliation>National Health Research Institutes, Zhunan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Shyi Jang</ForeName>
+                    <Initials>SJ</Initials>
+                    <Affiliation>Kaohsiung Medical University Hospital and College of Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wahlqvist</LastName>
+                    <ForeName>Mark L</ForeName>
+                    <Initials>ML</Initials>
+                    <Affiliation>National Health Research Institutes, Zhunan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Ya Ling</ForeName>
+                    <Initials>YL</Initials>
+                    <Affiliation>National Health Research Institutes, Zhunan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>K C</ForeName>
+                    <Initials>KC</Initials>
+                    <Affiliation>National Health Research Institutes, Zhunan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Chih Cheng</ForeName>
+                    <Initials>CC</Initials>
+                    <Affiliation>Min-Hwei College of Health Care Management, Tainan City, Taiwan National Health Research Institutes, Zhunan, Taiwan National Health Research Institutes, Zhunan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miarka</LastName>
+                    <ForeName>Przemyslaw</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Department of Nephrology, University Hospital, Medical College, Jagiellonian University, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grabowska-Polanowska</LastName>
+                    <ForeName>Beata</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Institute of Nuclear Physics of Polish Academy of Sciences, Department of Physicochemistry of Ecosystems, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faber</LastName>
+                    <ForeName>Jacek</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Institute of Nuclear Physics of Polish Academy of Sciences, Department of Physicochemistry of Ecosystems, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skowron</LastName>
+                    <ForeName>Monika</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Institute of Nuclear Physics of Polish Academy of Sciences, Department of Physicochemistry of Ecosystems, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietrzycka</LastName>
+                    <ForeName>Agata</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Pharmacobiology, Medical College of Jagiellonian University, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walus-Miarka</LastName>
+                    <ForeName>Malgorzata</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Metabolic Diseases, University Hospital, Medical College, Jagiellonian University, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sliwka</LastName>
+                    <ForeName>Ireneusz</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Institute of Nuclear Physics of Polish Academy of Sciences, Department of Physicochemistry of Ecosystems, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sulowicz</LastName>
+                    <ForeName>Wladyslaw</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Department of Nephrology, University Hospital, Medical College, Jagiellonian University, Krakow, Poland.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nephrol Dial Transplant</MedlineTA>
+            <NlmUniqueID>8706402</NlmUniqueID>
+            <ISSNLinking>0931-0509</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">gfu169</ArticleId>
+            <ArticleId IdType="doi">10.1093/ndt/gfu169</ArticleId>
+            <ArticleId IdType="pubmed">24849988</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">24835229</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>5</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2168-2208</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE journal of biomedical and health informatics</Title>
+                <ISOAbbreviation>IEEE J Biomed Health Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Multiscale Approach for Modeling Atherosclerosis Progression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNLABELLED">Progression of atherosclerotic process constitutes a serious and quite common condition owed to accumulation of fatty materials in the arterial wall, consequently posing serious cardiovascular complications. In this work, we assemble and analyze a multitude of heterogeneous data in order to model the progression of atherosclerosis (ATS) in coronary vessels. The patient's medical record, biochemical analytes, monocyte information, adhesion molecules and therapy-related data comprise the input for the subsequent analysis. As indicator of coronary lesion progression, two consecutive coronary Computed Tomography Angiographies have been evaluated in the same patient. To this end, a set of 39 patients is studied using a twofold approach, namely baseline analysis and temporal analysis. The former approach employs baseline information in order to predict the future state of the patient (in terms of progression of ATS). The latter is based on an approach encompassing Dynamic Bayesian Networks whereby snapshots of the patient's status over the follow-up are analyzed in order to model the evolvement of ATS, taking into account the temporal dimension of the disease. The quantitative assessment of our work has resulted in 93.3% accuracy for the case of baseline analysis, and 83% overall accuracy for the temporal analysis, in terms of modeling and predicting the evolvement of ATS. It should be noted that the application of the SMOTE algorithm for handling class imbalance and the subsequent evaluation procedure might have introduced an overestimation of the performance metrics, due to the employment of synthesized instances. The most prominent features found to play a substantial role in the progression of the disease are: diabetes, cholesterol and cholesterol/HDL. Among novel markers, the CD11b marker of leukocyte integrin complex is associated with coronary plaque progression.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Exarchos</LastName>
+                    <ForeName>Konstantinos</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author>
+                    <LastName>Carpeggiani</LastName>
+                    <ForeName>Clara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author>
+                    <LastName>Rigas</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author>
+                    <LastName>Exarchos</LastName>
+                    <ForeName>Themis</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author>
+                    <LastName>Vozzi</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author>
+                    <LastName>Sakellarios</LastName>
+                    <ForeName>Antonis</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author>
+                    <LastName>Marraccini</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author>
+                    <LastName>Naka</LastName>
+                    <ForeName>Katerina</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author>
+                    <LastName>Michalis</LastName>
+                    <ForeName>Lampros</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author>
+                    <LastName>Parodi</LastName>
+                    <ForeName>Oberdan</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author>
+                    <LastName>Fotiadis</LastName>
+                    <ForeName>Dimitrios</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>IEEE J Biomed Health Inform</MedlineTA>
+            <NlmUniqueID>101604520</NlmUniqueID>
+            <ISSNLinking>2168-2194</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/JBHI.2014.2323935</ArticleId>
+            <ArticleId IdType="pubmed">24835229</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
